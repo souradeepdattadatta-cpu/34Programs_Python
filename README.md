@@ -105,7 +105,7 @@ Author
 
 Souradeep Datta
 
-Course: CSE
+Course Code: CSE1021
 
 Registration Number: 25BAI10732
 
