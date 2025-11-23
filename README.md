@@ -9,7 +9,7 @@ The project focuses on implementing efficient algorithms for various number theo
 
 Key Features:
 
-Language: Python 3.11+
+Language: Python 3.14
 
 Performance Tracking: Every script utilizes time and tracemalloc to report:
 
